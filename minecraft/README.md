@@ -7,6 +7,7 @@ desde 2019.
 
 ## Ambiente
 - **Virtualização**: VirtualBox, rodando VM com Ubuntu Server 24.04 LTS
+- **Acesso remoto**: administração via SSH
 - **Jogadores**: ~8 pessoas conectando via IP público da VM
 - **Ciclo de vida**: servidores reconstruídos do zero periodicamente 
   (aproximadamente a cada 1,5 anos), como prática de manutenção e reaprendizado 

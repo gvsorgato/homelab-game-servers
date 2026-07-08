@@ -6,7 +6,7 @@ da VM do Minecraft — isolamento de ambiente para evitar que problemas em um
 jogo afetem o outro.
 
 ## Ambiente
-- **Virtualização**: VirtualBox, VM dedicada (TerraVM) com Ubuntu Server 24.04 LTS
+- **Virtualização**: VirtualBox, VM dedicada com Ubuntu Server 26.04 LTS
 - **Acesso remoto**: administração via SSH (autenticação por senha)
 - **Jogadores**: ~6 pessoas conectando via IP público da VM
 
@@ -27,8 +27,8 @@ jogo afetem o outro.
 - Atualizações não são muito frequentes, o que reduz o impacto dessa limitação
 
 ## Backup
-- Mesma rotina da MineVM: cópia manual do mundo para o PC local, depois 
-  enviada ao Google Drive antes de reconstruções
+- Cópia manual do mundo para o PC local, depois enviada ao Google Drive
+  antes de reconstruções
 
 ## O que eu aprendi
 - Gerenciamento de múltiplas VMs separadas por serviço, evitando dependência 
